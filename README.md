@@ -3,7 +3,7 @@
 ## I'm Undergraduate Computer Science student, and a Developer!
 
 - 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack and Machine Learning
+- 🌱 I’m currently learning Fullstack.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music.
