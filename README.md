@@ -8,21 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music.
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-[<img align="left" alt="michaelmathu | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="michaelmathu | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="michaelmathu | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="michaelmathu | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="michaelmathu | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="michaelmathu | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
-
-<br />
-
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
-</p>
-
 ---
 
 ### Languages and Tools:
@@ -43,7 +28,7 @@
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
+</code>
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
@@ -59,7 +44,6 @@
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
@@ -75,10 +59,3 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 
 ---
-
-[linkedin]: https://www.linkedin.com/in/michael-mathu-89729215b/
-[gmail]: mailto:mathumichael17@gmail.com
-[whatsapp]: https://wa.me/254798827450
-[telegram]: https://telegram.me/michaelmathu
-[twitter]: https://twitter.com/mmichaelmathu
-[facebook]: https://www.facebook.com/mike.mathu.7/
