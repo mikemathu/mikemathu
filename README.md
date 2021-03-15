@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack.
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to listen music.
 
 ---
