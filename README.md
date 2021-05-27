@@ -3,7 +3,6 @@
 ## I'm Undergraduate Computer Science student, and a Developer!
 
 - 🔭 I’m currently working on a my final year project!.
-- 🔎 I’m looking for attachment.
 - 📫 How to reach me: mathumichael17@gmail.com
 
 ---
