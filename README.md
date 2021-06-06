@@ -45,7 +45,6 @@
 
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikemathu&show_icons=true&theme=tokyonight&line_height=52" />
