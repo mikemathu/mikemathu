@@ -2,7 +2,7 @@
 
 ## I'm Undergraduate Computer Science student, and a Developer!
 
-- 📫 How to reach me: mathumichael17@gmail.com
+
 
 ---
 
