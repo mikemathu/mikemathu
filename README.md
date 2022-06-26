@@ -1,9 +1,4 @@
 ### Hi, I'm Michael Mathu
-
-## I'm Undergraduate Computer Science student, and a Developer!
-
-
-
 ---
 
 ### Languages and Tools:
